@@ -14,6 +14,7 @@ export const labels = {
   hero: {
     happy: "Happy",
     title: "Valentine",
+    dedication: "Dành cho một người",
     lede: "Một hộp socola, và lá thư anh chỉ viết cho em.",
     cta: "Đọc lá thư",
     skip: "Tới lá thư",
@@ -31,6 +32,7 @@ export const labels = {
     photoOpenAlt: "Khay socola Nỗi Nhớ 24/7 mở ra bảy ngày trong tuần",
   },
   letter: {
+    whisper: "Anh gấp lá thư này vào giữa những viên socola.",
     heading: "Lời dành cho em",
     to: "Gửi",
     recipient: "Em yêu",
